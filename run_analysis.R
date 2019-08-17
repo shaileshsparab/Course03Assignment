@@ -6,6 +6,7 @@ unzip(zipfile="./getdata_projectfiles_UCI HAR Dataset.zip",exdir="./data")
 
 #define the path where the new folder has been unziped
 pathdata <- file.path("./Data","UCI HAR Dataset")
+
 #create a file which has the list of 28 file names
 files <- list.files(pathdata, recursive=TRUE)
 

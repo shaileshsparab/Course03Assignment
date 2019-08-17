@@ -1,0 +1,1 @@
+run_analysis.R file in Course03Assignment folder will give the merged and cleaned data save in form of secTidySet.txt. Code file explains all the sets of program taken to get acheive the resulted data set.
